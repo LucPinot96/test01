@@ -1,0 +1,7 @@
+rang en chiffres romains et en minuscules
+essaie de mettre
+cinq 5 ou six 6
+lignes
+et combien
+de colonnes
+?
