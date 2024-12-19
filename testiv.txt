@@ -1,6 +1,6 @@
 rang en chiffres romains et en minuscules
 
-cinq 5 V ou six 6 VI et trois 3 III
+cinq 5 V ou six 6 VI et trois 3 III ou sept 7 VII
 lignes
 et combien
 de colonnes
