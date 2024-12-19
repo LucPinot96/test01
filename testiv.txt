@@ -1,7 +1,10 @@
 rang en chiffres romains et en minuscules
-essaie de mettre
-cinq 5 ou six 6
+
+cinq 5 V ou six 6 VI
 lignes
 et combien
 de colonnes
 ?
+Chiffres arabes, romains ou lettres?
+Pourquoi?
+
