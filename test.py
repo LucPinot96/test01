@@ -1,4 +1,5 @@
-print('Hello world!')
+#on commente la premiere instruction qui ne sert plus à rien
+#print('Hello world!')
 
 def print_n_helloworld(n):
 	for i in range(n):
