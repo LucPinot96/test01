@@ -1,10 +1,10 @@
-rang en chiffres romains et en minuscules
+rang en minuscules ou en chiffres romains ou les deux ou aucun des deux?
 
 cinq 5 V ou six 6 VI et trois 3 III ou sept 7 VII
 lignes
 et combien
 de colonnes
 ?
-Chiffres arabes, romains ou lettres?
+Chiffres arabes, romains ou/et (car pas exclusif) lettres?
 Pourquoi?
 
